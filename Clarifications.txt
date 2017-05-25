@@ -1,3 +1,8 @@
+This will create an app allowing the navigation of hierarcially organized data. For links, 
+details and descriptions scrollbars will appear for any field that contains too much data to fit 
+within the UI element. A single image can also be displayed for any given set of imformation.
+
+
 
 The file structure should include a Greetings text file with whatever initial desired data may be, 
 be it a description, introduction, or instructions etc, a text file labled 0.
